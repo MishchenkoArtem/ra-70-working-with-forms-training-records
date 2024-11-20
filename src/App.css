@@ -83,6 +83,7 @@ button {
 }
 
 p {
+    overflow: hidden;
     width: 100px;
     text-align: center;
 }
